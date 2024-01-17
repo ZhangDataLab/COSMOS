@@ -1,6 +1,6 @@
 # Paths of A Million People: Extracting Life Trajectories from Wikipedia
 This is the source code for paper 'Paths of A Million People: Extracting Life Trajectories from Wikipedia'.   
-Here we provide
+Here we provide:
 - Source code for our model **COSMOS** in ```/COSMOS```
 - Source code for our tripets extraction tool in ```/preprocessing/tuple_extraction.py```
 - Life Trajectories Extracted from 5% biography pages on Wikipedia ```/trajectory_data```
