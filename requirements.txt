@@ -2,12 +2,12 @@ huggingface-hub==0.10.1
 json5==0.9.10
 jsonschema==4.16.0
 nltk==3.7
-numpy @ file:///tmp/build/80754af9/numpy_and_numpy_base_1634095647912/work
+numpy==1.21.2
 pandas==1.4.2
-seaborn @ file:///home/conda/feedstock_root/build_artifacts/seaborn-split_1666117478708/work
+seaborn==0.12.1
 torch==1.11.0+cu113
 torchaudio==0.11.0
 torchtext==0.11.1
 torchvision==0.12.0+cu113
-tqdm @ file:///opt/conda/conda-bld/tqdm_1647339053476/work
+tqdm==4.63.0
 transformers==4.21.1
