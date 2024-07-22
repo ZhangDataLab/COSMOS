@@ -3,6 +3,7 @@ This is the source code for paper 'Paths of A Million People: Extracting Life Tr
 Here we provide:
 - Source code for our model **COSMOS** in ```/COSMOS```
 - Source code for our tripets extraction tool in ```/preprocessing/tuple_extraction.py```
+- Annotated data for taining and testing in ```/data```
 - Life Trajectories Extracted from 5% biography pages on Wikipedia ```/trajectory_data```
 - A Sample from our ground truth dataset *WikiLifeTrajectory* : ```/sample_data/sample.json```
 
