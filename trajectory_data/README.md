@@ -1,4 +1,6 @@
-# trajectory_data
+# Trajectory Data
+
+All trajectories extracted from Wikipedia [LifeTrajectory_5M](https://huggingface.co/datasets/JJYDXFS/LifeTrajectory_5M).
 
 ## extracted_sample.csv
 399,997 trajectories of 5% biography pages in Wikipedia.
